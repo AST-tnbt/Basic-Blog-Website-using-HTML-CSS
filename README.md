@@ -4,7 +4,7 @@
 This is a responsive website made in HTML, CSS, and Bootstrap framework.
 
 ## What does this look like?
-There is some demos of the website: 
+There are some demos of the website: 
 * The tab website:      
 ![alt](./image/readme_demo_tab.png)  
 
