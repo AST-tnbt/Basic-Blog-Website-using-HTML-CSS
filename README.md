@@ -1,7 +1,7 @@
 # Basic-Blog-Website-using-HTML-CSS
 
 ## Introduction
-This is a responsive website made in HTML, CSS, and Bootstrap framework.
+This is a responsive website made in HTML, CSS, and Bootstrap.
 
 ## What does this look like?
 There are some demos of the website: 
